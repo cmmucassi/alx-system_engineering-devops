@@ -1,1 +1,1 @@
-echo "$USER"
+#!/bin/bash
