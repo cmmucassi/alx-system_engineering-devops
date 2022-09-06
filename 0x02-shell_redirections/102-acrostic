@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n -type f   /etc/passwd
+sed -n    /etc/passwd
